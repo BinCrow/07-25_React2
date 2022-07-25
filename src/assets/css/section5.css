@@ -1,0 +1,29 @@
+.yt {
+    position: relative;
+    padding: 130px 0;
+}
+.yt::before {
+    content: '';
+    width: 641px;
+    height: 287px;
+    background: url(../img/yt.png) no-repeat center center;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translate(0,-50%);
+}
+.yt h2 {
+    font-size: 50px;
+    padding-bottom: 40px;
+}
+.yt p {
+    font-size: 24px;
+    padding-bottom: 70px;
+}
+.yt a {
+    display: inline-block;
+    font-size: 18px;
+    background: #ff4433;
+    padding: 15px 30px;
+    color: #fff;
+}

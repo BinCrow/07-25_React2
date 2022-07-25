@@ -1,0 +1,52 @@
+#section6 {
+    padding: 100px 0;
+    background: url(/img/bg3.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.sec6_title {
+    text-align: center;
+    color: #fff;
+}
+.sec6_title h2 {
+    font-size: 50px;
+    padding: 30px 0;
+}
+.sec6_title p {
+    padding-bottom: 30px;
+    font-size: 18px;
+}
+.sec6_box {position: relative;}
+.sec6_box ul {
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+}
+.sec6_box li {
+    width: 350px;
+}
+.sec6_box li p {
+    padding-bottom: 20px;
+    font-size: 18px;
+    text-align: justify;
+}
+.sec6_box li span {
+    padding-bottom: 30px;
+    display: block;
+    text-align: right;
+}
+.sec6_box li a {
+    display: block;
+    padding: 10px 10px;
+    background: #ff4433;
+    color: #fff;
+    text-align: center;
+}
+.sec6_inner .po {
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    top: -50px;
+    text-transform: uppercase;
+    color: #fff;
+}

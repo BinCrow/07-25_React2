@@ -1,0 +1,111 @@
+
+#section4 {
+    padding: 100px 0;
+    background: url(/img/bg1.jpg) no-repeat center center;
+    background-size: cover;
+    color: #fff;
+}
+.sec4_title {
+    text-align: center;
+}
+.sec4_title h2 {
+    padding: 50px 0 10px 0;
+    font-size: 50px;
+    color: #fff;
+}
+.sec4_title p {
+    text-transform: uppercase;
+    padding: 50px;
+    font-size: 21px;
+}
+.sec4_inner ul {
+    padding: 30px 0;
+}
+.sec4_inner .sec4_top {
+    display: flex;
+    justify-content: space-between;
+}
+.sec4_top li {
+    text-align: center;
+}
+.sec4_top li .sec4_img {
+    width: 265px;
+    height: 380px;
+}
+.sec4_top li:nth-child(1) .sec4_img {
+    background: url(/img/mu1.jpg) no-repeat center center;
+    background-size: cover;
+}
+.sec4_top li:nth-child(2) .sec4_img {
+    background: url(/img/mu2.jpg) no-repeat center center;
+    background-size: cover;
+}
+.sec4_top li:nth-child(3) .sec4_img {
+    background: url(/img/mu5.jpg) no-repeat center center;
+    background-size: cover;
+}
+.sec4_top li:nth-child(4) .sec4_img {
+    background: url(/img/mu6.jpg) no-repeat center center;
+    background-size: cover;
+}
+.sec4_top li strong {
+    display: block;
+    padding: 20px 0;
+    font-size: 28px;
+}
+.sec4_top li p {
+    padding-bottom: 20px;
+    font-size: 18px;
+}
+.sec4_top li a {
+    display: block;
+    padding: 15px 30px;
+    background: #ff3344;
+    font-size: 21px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.sec4_inner .sec4_bottom {
+    display: flex;
+    justify-content: space-between;
+}
+.sec4_bottom li {
+    text-align: center;
+}
+.sec4_bottom li .sec4_img {
+    width: 275px;
+    height: 380px;
+}
+.sec4_bottom li:nth-child(1) .sec4_img {
+    background: url(/img/mu1.jpg) no-repeat center center;
+    background-size: cover;
+}
+.sec4_bottom li:nth-child(2) .sec4_img {
+    background: url(/img/mu2.jpg) no-repeat center center;
+    background-size: cover;
+}
+.sec4_bottom li:nth-child(3) .sec4_img {
+    background: url(/img/mu5.jpg) no-repeat center center;
+    background-size: cover;
+}
+.sec4_bottom li:nth-child(4) .sec4_img {
+    background: url(/img/mu6.jpg) no-repeat center center;
+    background-size: cover;
+}
+.sec4_bottom li strong {
+    display: block;
+    padding: 20px 0;
+    font-size: 28px;
+}
+.sec4_bottom li p {
+    padding-bottom: 20px;
+    font-size: 18px;
+}
+.sec4_bottom li a {
+    display: block;
+    padding: 15px 30px;
+    background: #ff3344;
+    font-size: 21px;
+    color: #fff;
+    text-transform: uppercase;
+}

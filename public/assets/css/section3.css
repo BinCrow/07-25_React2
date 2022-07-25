@@ -1,0 +1,71 @@
+#section3 {
+    padding: 100px 0;
+}
+#section3 h2 {
+    padding: 50px 0;
+    font-size: 50px;
+}
+.sec3_inner {text-align: center;}
+.actor_wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.sec3_inner .more {
+    display: inline-block;
+    padding: 10px 50px;
+    background: #ff3344;
+    border-radius: 50px;
+}
+.sec3_inner .more a {
+    font-size: 21px;
+    color: #fff;
+}
+.actor_wrap>div {
+    position: relative;
+}
+.actor_wrap .img1 {
+    width: 370px;
+    height: 520px;
+    color: #fff;
+}
+.actor_wrap .img2 {
+    width: 370px;
+    height: 520px;
+    color: #fff;
+}
+.actor_wrap .img3 {
+    width: 370px;
+    height: 520px;
+    color: #fff;
+}
+.actor_wrap div .img1 {
+    background: url(/img/sec3_img01.jpg) no-repeat center center;
+    background-size: cover;
+}
+.actor_wrap div .img2 {
+    background: url(/img/sec3_img03.jpg) no-repeat center center;
+    background-size: cover;
+}
+.actor_wrap div .img3 {
+    background: url(/img/sec3_img02.jpg) no-repeat center center;
+    background-size: cover;
+}
+.actor_wrap>div .text{
+    position: absolute;
+    left: 50%;
+    bottom: 30px;
+    transform: translate(-50%);
+}
+.actor_wrap strong {
+    display: block;
+    margin-bottom: 15px;
+    font-size: 30px;
+    color: #fff;
+}
+.actor_wrap a {
+    font-size: 18px;
+    display: block;
+    color: #fff;
+}
